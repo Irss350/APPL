@@ -1,0 +1,6 @@
+joblib==0.17.0
+streamlit
+datetime
+pytz
+nltk
+scikit-learn
